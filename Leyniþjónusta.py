@@ -1,2 +1,2 @@
 corrupted_email = str(input())
-print(corrupted_email) as
+print(corrupted_email.replace(" ", ""))
