@@ -1,0 +1,1 @@
+print(f'{float(input()) / 4:.2f}')
